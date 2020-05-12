@@ -18,10 +18,10 @@ Link to my website: https://www.angelocardinale.com/
 
 ### Labs
 - [x] Lab 1 : Raspberry Pi setup
-- [x] Lab 2 : Raspberry Pi
-- [x] Lab 3 :
-- [x] Lab 4 :
-- [ ] Lab 5 :
+- [x] Lab 2 : Raspberry Pi (Covid-19, prevented completion)
+- [x] Lab 3 : Python
+- [x] Lab 4 : Django and Flask
+- [ ] Lab 5 : Crossbar.io and Paho (In Progress)
 - [ ] Lab 6 :
 - [ ] Lab 7 :
 - [ ] Lab 8 :
